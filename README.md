@@ -1,5 +1,6 @@
 
 # zomato-data-analysis
+![Blue and Red Photo Landscape Campaign Posters (1)](https://github.com/user-attachments/assets/9cf4e140-49cf-472e-9a7e-3d8ebe193f35)
 
 I’m thrilled to share that I’ve completed a comprehensive data science project that dives deep into the fascinating world of Zomato's data. By leveraging cutting-edge data visualization techniques, I've uncovered intriguing insights into customer behaviors, restaurant types, and ordering patterns.
  Here’s a sneak peek into the key questions I explored and the compelling insights I discovered:
